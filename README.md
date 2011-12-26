@@ -1,6 +1,6 @@
 mdb2mysql-class
 =======================
-This class is an convertor, which exports Microsoft Access Databases to MySQL.
+This class is a convertor, which exports Microsoft Access Databases to MySQL.
 
 Examples
 --------
